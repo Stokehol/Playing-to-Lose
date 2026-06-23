@@ -1,4 +1,4 @@
-# Playing to Lose: Subgame-Perfect Equilibria in Sequential Round-Robin Tournaments with Non-Monotone Prizes: Supplementary Calculations
+# Playing to Lose: Subgame-Perfect Equilibria in Sequential Round-Robin Tournaments with Non-Monotone Prizes: Supplementary Calculations [Anonymized for review]
 
 In this repository, you will find the supplementary calculations available as both an HTML file and a wxMaxima notebook. 
 
