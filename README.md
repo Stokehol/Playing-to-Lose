@@ -8,4 +8,4 @@ To actively interact with the code, you will need to download and install the fr
 
 [Click here to display the HTML version of the calculations (non-monotone prizes) in your web browser](https://stokehol.github.io/Playing-to-Lose/Playing%20to%20Lose%20-%20HTML%20Notebook.html).
 
-[Click here to display the HTML version of the calculations (monotone prizes) in your web browser](https://stokehol.github.io/Playing-to-Lose/Playing%20to%20Lose%20(Monotone%20Prizes)%20-%20Maxima%20Notebook.html).
+[Click here to display the HTML version of the calculations (monotone prizes) in your web browser](https://stokehol.github.io/Playing%20to%20Lose%20(Monotone%20Prizes)%20-%20HTML%20Notebook.html).
